@@ -1,4 +1,3 @@
-/*
 
 // Vulnerabilidades Helper
 
@@ -25,4 +24,3 @@ function infiniteLoops() {
 } 
 
 
-*/
