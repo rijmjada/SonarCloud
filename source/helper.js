@@ -1,3 +1,5 @@
+/*
+
 
 // Vulnerabilidades Helper
 
@@ -21,5 +23,7 @@ function infiniteLoops() {
     while (true) {
         // Este bucle no tiene una condición de salida
     }
-}
+} 
 
+
+*/
