@@ -2,13 +2,13 @@
 // Vulnerabilidades Helper
 
 function nullPointerDereference() {
-    // 1. Null Pointer Dereference
+    // Null Pointer Dereference
     let obj = null;
     console.log(obj.property); // Accediendo a una propiedad de un objeto nulo
 }
 
 function deadCode() {
-    // 3. Dead Code
+    // Dead Code
     function deadCodeExample() {
         console.log("Este código está muerto");
         return;
@@ -17,7 +17,7 @@ function deadCode() {
 }
 
 function infiniteLoops() {
-    // 8. Infinite Loops
+    // Infinite Loops
     while (true) {
         // Este bucle no tiene una condición de salida
     }
