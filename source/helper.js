@@ -1,4 +1,4 @@
-/*
+
 // Vulnerabilidades Helper
 
 function nullPointerDereference() {
@@ -10,7 +10,7 @@ function nullPointerDereference() {
 function deadCode() {
     // Dead Code
     function deadCodeExample() {
-        console.log("Este código está muerto");
+        console.log("Este código se ejecuta");
         return;
         console.log("Esto nunca se ejecutará");
     }
@@ -23,4 +23,4 @@ function infiniteLoops() {
     }
 } 
 
-*/
+
