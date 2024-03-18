@@ -1,4 +1,4 @@
-
+/*
 // Vulnerabilidades Helper
 
 function nullPointerDereference() {
@@ -24,3 +24,4 @@ function infiniteLoops() {
 } 
 
 
+*/
