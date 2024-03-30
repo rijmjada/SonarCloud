@@ -1,4 +1,4 @@
-/*
+
 // Vulnerabilidades Helper
 
 function nullPointerDereference() {
@@ -22,6 +22,6 @@ function infiniteLoops() {
         // Este bucle no tiene una condición de salida
     }
 } 
-*/
+
 
 
